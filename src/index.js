@@ -1,3 +1,4 @@
+// Import components Global
 import './consulta-ajax';
 import './componente-principal';
 import './listado-categorias';

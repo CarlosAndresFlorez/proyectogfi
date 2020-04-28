@@ -1,4 +1,5 @@
 import { LitElement, html, css } from 'lit-element';
+// Import components
 import '@polymer/iron-ajax/iron-ajax.js';
 
 
